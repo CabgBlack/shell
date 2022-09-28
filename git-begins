@@ -1,6 +1,0 @@
-Pour clone on fait git clone (lien du compte github)
-Les commandes de push :
-git add .
-git commit -m "le commentaire"
-git push
-git pull
